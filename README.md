@@ -6,7 +6,7 @@
 
 🎓 Fiz o curso técnico em Informática pelo Senac Minas (concluído em 2025)
 <br>
-📚 Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) no IFTM, com previsão de término em 2028, e Engenharia de Software
+📚 Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) no IFTM, com previsão de término em 2028
 <br>
 🔐 Pretendo seguir também na área de Cybersecurity (segurança da informação)
 <br>
