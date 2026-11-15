@@ -2,7 +2,15 @@
 
 ###
 
-<p data-importer="text" align="left">Fala! Eu sou o Marcelo 🚀 Gosto de transformar ideias em código. Fiz o curso técnico em Informática pelo Senac Minas e hoje estou cursando Análise e Desenvolvimento de Sistemas (ADS) e Engenharia de Software. Sempre atrás de um projeto novo!</p>
+<p data-importer="text" align="left">Fala! Eu sou o Marcelo 🚀 Gosto de transformar ideias em código e estou sempre atrás de um projeto novo.
+
+🎓 Fiz o curso técnico em Informática pelo Senac Minas (concluído em 2025)
+📚 Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) no IFTM, com previsão de término em 2028, e Engenharia de Software
+🔐 Pretendo seguir também na área de Cybersecurity (segurança da informação)
+💻 Programo em Python, C++ e Go, e uso HTML, CSS e Bootstrap para criar interfaces
+🌱 Sempre aprendendo e aberto a novos projetos e parcerias</p>
+
+<br>
 
 ###
 
