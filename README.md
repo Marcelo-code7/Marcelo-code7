@@ -5,9 +5,13 @@
 <p data-importer="text" align="left">Fala! Eu sou o Marcelo 🚀 Gosto de transformar ideias em código e estou sempre atrás de um projeto novo.
 
 🎓 Fiz o curso técnico em Informática pelo Senac Minas (concluído em 2025)
+<br>
 📚 Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) no IFTM, com previsão de término em 2028, e Engenharia de Software
+<br>
 🔐 Pretendo seguir também na área de Cybersecurity (segurança da informação)
+<br>
 💻 Programo em Python, C++ e Go, e uso HTML, CSS e Bootstrap para criar interfaces
+<br>
 🌱 Sempre aprendendo e aberto a novos projetos e parcerias</p>
 
 <br>
